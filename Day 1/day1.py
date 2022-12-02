@@ -1,4 +1,4 @@
-f = open('Day 1\\inputday1.txt', 'r')
+f = open('Day 1/inputday1.txt', 'r')
 lines = f.readlines()
 
 max_cal = 0
